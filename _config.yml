@@ -7,6 +7,8 @@ gems:
 
 exclude:
   - "/vendor/"
+  
+remote_theme: bencentra/centrarium
 
 # Site settings
 title: Centrarium
@@ -197,4 +199,4 @@ protocols:
     os_rcs_type: "git"
     os_src: "git@github.com:bencentra/centrarium.com.git"
     
-    remote_theme: bencentra/centrarium
+
